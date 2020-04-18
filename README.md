@@ -1,19 +1,24 @@
 ﻿ # Naves Espaciales
  **1.** Hacemos login mediante el comando `mysql -u root -p` , nos pedirá la contraseña y la introducimos.
- <img1
+![Imaxe 1](https://raw.githubusercontent.com/vendoleiras/ExerciciosMySQL/master/images/1.PNG)
  **2.** Creamos la base de datos.
- <img2
+![Imaxe 2](https://raw.githubusercontent.com/vendoleiras/ExerciciosMySQL/master/images/2.PNG)
  **3.** Ponemos el siguiente comando para usarla.
- <img3
+![Imaxe 3](https://raw.githubusercontent.com/vendoleiras/ExerciciosMySQL/master/images/3.PNG)
  **4.** A partir de ahora tenemos que crear todas las tablas.
-<img4
-ata a 
-<alter tripulacion
-<img 11
+![Imaxe 4](https://raw.githubusercontent.com/vendoleiras/ExerciciosMySQL/master/images/4.PNG)
+![Imaxe 5](https://raw.githubusercontent.com/vendoleiras/ExerciciosMySQL/master/images/5.PNG)
+![Imaxe 6](https://raw.githubusercontent.com/vendoleiras/ExerciciosMySQL/master/images/6.PNG)
+![Imaxe 7](https://raw.githubusercontent.com/vendoleiras/ExerciciosMySQL/master/images/7.PNG)
+![Imaxe 8](https://raw.githubusercontent.com/vendoleiras/ExerciciosMySQL/master/images/8.PNG)
+![Imaxe 9](https://raw.githubusercontent.com/vendoleiras/ExerciciosMySQL/master/images/9.PNG)
+![Imaxe 10](https://raw.githubusercontent.com/vendoleiras/ExerciciosMySQL/master/images/10.PNG)
+![Imaxe 11](https://raw.githubusercontent.com/vendoleiras/ExerciciosMySQL/master/images/1b.PNG)
+![Imaxe 12](https://raw.githubusercontent.com/vendoleiras/ExerciciosMySQL/master/images/11.PNG)
  **5.** En caso de que nos olvidemos de algo podemos usar `ALTER TABLE` para añadirlo.
- <check camara
-6. `show tables`
-<img 12
+![Imaxe 6B](https://raw.githubusercontent.com/vendoleiras/ExerciciosMySQL/master/images/1c.PNG)
+**6.** `show tables`
+![Imaxe 13](https://raw.githubusercontent.com/vendoleiras/ExerciciosMySQL/master/images/12.PNG)
 
 # Proxectos de Investigación
 Ahora veremos otro ejemplo, para así tener más opciones. Usamos directamente un editor de texto, creamos un nuevo archivo y en él añadimos los comandos necesarios. Lo guardamos como un archivo `.sql`. Esto nos facilitará mucho el proceso.
@@ -150,7 +155,7 @@ REFERENCES Programa (Nome_Programa)
 ON DELETE CASCADE
 ON UPDATE CASCADE;
 ````
-<IMG1_1
-<IMG2_2
-<IMG3_3
-<IMG4_4
+![Imaxe 14](https://raw.githubusercontent.com/vendoleiras/ExerciciosMySQL/master/images/1_1.PNG)
+![Imaxe 15](https://raw.githubusercontent.com/vendoleiras/ExerciciosMySQL/master/images/2_2.PNG)
+![Imaxe 16](https://raw.githubusercontent.com/vendoleiras/ExerciciosMySQL/master/images/3_3.PNG)
+![Imaxe 17](https://raw.githubusercontent.com/vendoleiras/ExerciciosMySQL/master/images/4_4.PNG)
